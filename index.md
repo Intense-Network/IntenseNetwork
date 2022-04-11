@@ -1,9 +1,11 @@
 ## Intense Network
 
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Intense Network is an internet community to provide different services...
+Basically Built for INTENSE people over the internet.
+Join us at [Telegram](https://t.me/IntenseNetwork)
 
 ```markdown
 Syntax highlighted code block
@@ -31,4 +33,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with anything? Check out our [E-Mail](intense.submissions@gmail.com) or [Telegram support](https://t.me/Intense_chat) and we’ll help you sort it out.
