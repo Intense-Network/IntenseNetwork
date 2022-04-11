@@ -1,5 +1,5 @@
 ## Intense Network
-<IMG SRC="Intensenetworkgif.gif">
+<center><IMG SRC="Intensenetworkgif.gif">
 
 
 ### Introduction
