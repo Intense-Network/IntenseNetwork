@@ -1,5 +1,5 @@
 ## Intense Network
-![Image](IntenseNetwork/Intensenetworkgif.gif)
+![](IntenseNetwork/Intensenetworkgif.gif)
 
 
 ### Introduction
