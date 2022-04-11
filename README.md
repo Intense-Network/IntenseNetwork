@@ -1,2 +1,2 @@
-# IntenseNetwork
-Intense Network Website Repo
+# Intense Network
+Network For Intense People
