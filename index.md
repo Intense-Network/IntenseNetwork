@@ -1,7 +1,5 @@
 ## Intense Network
 
-<h1>Intense Network</h1> {text-align: center;}
-
 <IMG SRC="Intensenetworkgif.gif" class="center">
 
 
