@@ -1,2 +1,2 @@
 # Intense Network
-# Network for Intense People
+Network for Intense People
