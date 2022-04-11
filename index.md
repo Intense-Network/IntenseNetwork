@@ -1,5 +1,5 @@
 ## Intense Network
-![](IntenseNetwork/Intensenetworkgif.gif)
+<IMG SRC="Intensenetworkgif.gif">
 
 
 ### Introduction
